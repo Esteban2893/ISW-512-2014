@@ -1,0 +1,21 @@
+body{
+	background-color: green;
+	color: white;
+}
+
+#parrafo1{
+	color: black;	
+}
+
+#parrafo2{
+	color: gray;
+}
+
+.parrafos{
+	background-color: white;   
+}
+
+h3{
+	color:yellow;
+}
+
